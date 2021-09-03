@@ -1,0 +1,10 @@
+.card {
+    margin: auto;
+    display: flex;
+    margin-bottom: 100px;
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    right: 0;
+}
+  
